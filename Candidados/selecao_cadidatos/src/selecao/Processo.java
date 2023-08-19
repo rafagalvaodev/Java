@@ -1,0 +1,18 @@
+package selecao;
+
+public class Processo {
+
+	public void analisandoCandidato(double salarioPretendido) {
+		double salarioBase = 2000.0;
+		
+		if(salarioBase > salarioPretendido){
+			System.out.println("Ligar para o Condidato");
+		} else if(salarioBase == salarioPretendido){
+			System.out.println("Ligar para o Candidato com uma Contra Proposta");
+		}else {
+			System.out.println("Aguardando os Resultados dos Demais Candidatos");
+		}
+		
+	}
+
+}
