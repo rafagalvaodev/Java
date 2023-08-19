@@ -1,0 +1,32 @@
+package desafio;
+
+import java.security.InvalidParameterException;
+import java.util.Scanner;
+
+public class Testando {
+
+	public static void main(String[] args) {
+
+	Scanner input = new Scanner(System.in);
+	
+	System.out.print("Digite o primeiro parametro: ");
+	int parametroOne = input.nextInt();
+	
+	System.out.print("Digite o segundo parametro: ");
+	int parametroTwo = input.nextInt();
+
+	try {
+		
+		Contadores contadores = new Contadores();
+		contadores.contar(parametroOne, parametroTwo);
+	}catch (InvalidParameterException ipe) {
+		System.out.println(ipe.getMessage());
+		
+	}
+
+	
+	input.close();
+
+
+}
+}
