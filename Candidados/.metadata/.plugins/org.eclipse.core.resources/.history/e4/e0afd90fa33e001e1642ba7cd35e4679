@@ -1,0 +1,57 @@
+package selecao;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.concurrent.ThreadLocalRandom;
+
+public class SelecaoCincoCandidatos {
+
+	
+	public void imprimirSelecionados() {
+		
+	}
+	
+	
+	static double valorPretendido() {
+		return ThreadLocalRandom.current().nextDouble(1800, 2200);
+	}
+	
+	public void selecionaCinco() {
+		String[] candidatos = {"Felipe", "Marcia", "Julia", "Paulo", "Augusto", "Monica", "Fabricio", "Mirela", "Daniela","João"};
+		
+		int candidatoSelecionado = 0;
+		int candidatoAtual = 0;
+		double salarioBase = 2000.0;
+		while(candidatoSelecionado < 5 && candidatoAtual < candidatos.length) {
+			List <String> candidatosSelecionados = new ArrayList<>();
+			String candidato = candidatos[candidatoAtual];
+			double salarioPretendido = valorPretendido();
+			
+			StringBuilder menssagem = new StringBuilder();
+			menssagem.append("O Candidato ");
+			menssagem.append(candidato);
+			menssagem.append(" Solicitou o salario de ");
+			menssagem.append(salarioPretendido);
+			
+			
+			System.out.println(menssagem);
+			if(salarioBase >= salarioPretendido) {
+				StringBuilder texto = new StringBuilder();
+				texto.append("O Candidato ");
+				texto.append(candidato);
+				texto.append(" Selecionado para entrevista ");
+				candidatoSelecionado += 1;
+				System.out.println();
+				System.out.println(texto);
+				
+				
+				
+			}
+			
+			
+			candidatoAtual += 1;
+			candidatosSelecionados.add(candidato);
+			System.out.println(candidatosSelecionados);
+		}
+	}
+}

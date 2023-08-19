@@ -1,0 +1,35 @@
+package selecao;
+
+import java.util.Random;
+
+public class Contatos{
+
+	public boolean atendeu() {
+		return new Random().nextInt(3)==1;
+	}
+	
+	public void tentativaDeContato(String candidato) {
+		int tentativas = 1;
+		boolean continuarTentando = true;
+		boolean atendeu = false;
+	
+		
+		do {
+			atendeu = atendeu();
+			continuarTentando = !atendeu();
+			if(continuarTentando) {
+				tentativas ++;
+			}else {
+				System.out.println("Contato Realizado");
+			}
+		}while(continuarTentando && tentativas < 3);
+		
+		if(atendeu) {
+			System.out.println("Conseguimos contato com " + candidato + " Na tentativa " + tentativas )  ;
+		}else {
+			System.out.println("Não conseguimos contato com " + candidato + " Número de tentativas " + tentativas);
+		}
+	}
+	
+	
+}

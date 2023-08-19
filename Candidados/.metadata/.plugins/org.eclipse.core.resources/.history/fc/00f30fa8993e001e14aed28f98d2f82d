@@ -1,0 +1,21 @@
+package selecao;
+
+import java.util.Scanner;
+
+public class Returno {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner input = new Scanner(System.in);
+		
+		double salarioPretendido = input.nextDouble();
+		
+		Processo processo = new Processo();
+		
+		
+		processo.analisandoCandidato(salarioPretendido);
+		
+		input.close();
+	}
+
+}

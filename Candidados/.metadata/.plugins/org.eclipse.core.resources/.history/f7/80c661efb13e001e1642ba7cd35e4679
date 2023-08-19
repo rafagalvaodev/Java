@@ -1,0 +1,12 @@
+package selecao;
+
+import java.util.Random;
+
+public class Contatos {
+
+	public boolean atendeu() {
+		return new Random().nextInt(3)==1;
+	}
+	
+	
+}

@@ -1,0 +1,8 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.lang.AbstractStringBuilder"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.lang.Appendable"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="selecao.SelecaoCincoCandidatos"><rhs name\="selecao.SelecaoCincoCandidatos"/></lhs><lhs name\="selecao.Contatos"><rhs name\="selecao.Contatos"/></lhs><lhs name\="java.lang.IllegalArgumentException"><rhs name\="java.security.InvalidParameterException"/></lhs><lhs name\="java.lang.RuntimeException"><rhs name\="java.security.InvalidParameterException"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.security.InvalidParameterException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.security.InvalidParameterException"/></lhs><lhs name\="java.security.InvalidParameterException"><rhs name\="java.security.InvalidParameterException"/></lhs></history>
+content_assist_number_of_computers=12
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
