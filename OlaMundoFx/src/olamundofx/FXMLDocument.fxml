@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" nodeOrientation="RIGHT_TO_LEFT" prefHeight="178.0" prefWidth="211.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="olamundofx.FXMLDocumentController">
+   <children>
+      <Button fx:id="jbtnClique" contentDisplay="CENTER" layoutX="57.0" layoutY="109.0" minWidth="-Infinity" mnemonicParsing="false" onAction="#cliqueButao" text="Não Clique aqui" textAlignment="CENTER" AnchorPane.bottomAnchor="45.0" AnchorPane.leftAnchor="45.0" AnchorPane.rightAnchor="45.0">
+         <font>
+            <Font name="Arial" size="15.0" />
+         </font>
+      </Button>
+      <Label fx:id="jlblMensagem" contentDisplay="RIGHT" layoutX="68.0" layoutY="44.0" prefHeight="25.0" prefWidth="90.0" text="Mensagem" textAlignment="CENTER" textFill="RED">
+         <font>
+            <Font name="Arial" size="18.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
