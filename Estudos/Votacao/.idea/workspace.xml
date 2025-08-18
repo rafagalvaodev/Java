@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c02a8792-aebe-4869-b0d6-297e99781782" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdade/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdade/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdade/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdade/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdade/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdade/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdade/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdade/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdade/src/classes/TelaIdade.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdade/src/classes/TelaIdade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdade/src/imagens/Users-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdade/src/imagens/calculadoraicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/build/classes/classes/TelaCalculadora$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/build/classes/classes/TelaCalculadora$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/build/classes/classes/TelaCalculadora$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/build/classes/classes/TelaCalculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/build/classes/classes/TelaCalculadora.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/build/classes/imagen/Users-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/build/classes/imagen/calculadoraicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/dist/CalculadoraIdadeSwing.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/src/classes/TelaCalculadora.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/src/classes/TelaCalculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/src/imagen/Users-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraIdadeSwing/src/imagen/calculadoraicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/11/20f2bae6b83e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/12/c06c555ab33e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/13/008d453fa63e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/13/90418688a53e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/14/20ad879a9b3e001e14aed28f98d2f82d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/18/90954ea1a23e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/1e/a024dd05ac3e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/25/101b25d0a63e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/27/90336b20a03e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/2a/2063a22fb83e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/2b/a09acf0c973e001e14aed28f98d2f82d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/3/40eb43c5a63e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/33/604c4f0fb23e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/37/7040ac89a43e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/37/c0d714969d3e001e14aed28f98d2f82d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/39/50f48c61993e001e14aed28f98d2f82d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/39/d04a7bd9b63e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/3a/e0b671dba63e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/56/903bbe9a9d3e001e14aed28f98d2f82d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/6/8038ee02a03e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/6/d01860efb13e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/64/70dd925eb53e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/67/3085d4d0b73e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/67/80ccda99b53e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/68/00962b92a53e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/68/f0cf1c41a43e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/69/d0ea8457b73e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/6a/70a035afa43e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/6c/b0e431c5b83e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/6d/308ddccbac3e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/71/200142d8ae3e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/72/f03ef378a43e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/73/d045b4f3b33e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/75/e0aa8c9eac3e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/77/90f10943b23e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/7a/5016dbada03e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/7d/d0ea7592b83e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/8/506adacbac3e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/81/c0f13eb0b23e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/82/70de0c87993e001e14aed28f98d2f82d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/88/f0413dcb963e001e14aed28f98d2f82d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/8d/00fa6313a13e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/8d/d06492cbac3e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/93/3065642fb73e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/96/003668e0b63e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/98/a0a7db73b23e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/9b/00affeee9d3e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/9d/9011d699b53e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/a0/70f9132d9f3e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/a0/e06d507ab83e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/a2/b0bd45969b3e001e14aed28f98d2f82d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/a3/302800adb73e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/a4/70b5a02fb83e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/a8/f010cee19d3e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/c1/f056a2ffa13e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/c7/30b1701ea23e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/c9/e0390340b53e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/d0/a0ad5878993e001e14aed28f98d2f82d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/d1/a097498f983e001e14aed28f98d2f82d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/d6/20520bd2a43e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/d9/a06c76e2a23e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/e0/60b92082a63e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/e4/e0afd90fa33e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/e9/40a47311b83e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/ed/a0289061993e001e14aed28f98d2f82d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/ef/6025895ca23e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/f1/60595b7db73e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/f5/400b822da43e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/f7/80c661efb13e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/fb/b0d0d899b53e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/fc/00f30fa8993e001e14aed28f98d2f82d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/fd/d0fddbcc963e001e14aed28f98d2f82d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.history/fe/90958c5ba53e001e1642ba7cd35e4679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.projects/selecao_cadidatos/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.projects/selecao_cadidatos/.indexes/e4/1d/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.projects/selecao_cadidatos/.indexes/e4/a6/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.projects/selecao_cadidatos/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.projects/selecao_cadidatos/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.projects/selecao_cadidatos/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.urischeme.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.debug.core/.launches/Contador.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.debug.core/.launches/Returno.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.debug.core/.launches/Testando.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.core/1696264553.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.core/2712045183.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/selecao_cadidatos/2023/8/33/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/selecao_cadidatos/2023/8/33/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/bin/desafio/Contadores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/bin/desafio/Testando.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/bin/selecao/Contatos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/bin/selecao/Processo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/bin/selecao/Returno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/bin/selecao/SelecaoCincoCandidatos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/src/desafio/Contadores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/src/desafio/Testando.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/src/selecao/Contatos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/src/selecao/Processo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/src/selecao/Returno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Candidados/selecao_cadidatos/src/selecao/SelecaoCincoCandidatos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasseAbstratra/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasseAbstratra/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasseAbstratra/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasseAbstratra/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasseAbstratra/ClasseAbstratra.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasseAbstratra/src/FiguraGeometrica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasseAbstratra/src/Lambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasseAbstratra/src/Lista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasseAbstratra/src/Maps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasseAbstratra/src/Sets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/build/built-jar.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/build/classes/contador/TelaContador$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/build/classes/contador/TelaContador$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/build/classes/contador/TelaContador$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/build/classes/contador/TelaContador$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/build/classes/contador/TelaContador$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/build/classes/contador/TelaContador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/dist/Contador.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/nbproject/genfiles.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/nbproject/private/private.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/nbproject/project.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/src/contador/TelaContador.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contador/src/contador/TelaContador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/build/built-jar.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/build/classes/contando/TelaContando$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/build/classes/contando/TelaContando$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/build/classes/contando/TelaContando.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/dist/Contando.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/nbproject/genfiles.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/nbproject/private/private.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/nbproject/project.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/src/contando/TelaContando.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contando/src/contando/TelaContando.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/build/built-jar.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/build/classes/equacao/TelaEquacao$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/build/classes/equacao/TelaEquacao$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/build/classes/equacao/TelaEquacao$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/build/classes/equacao/TelaEquacao$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/build/classes/equacao/TelaEquacao$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/build/classes/equacao/TelaEquacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/dist/Equacao.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/nbproject/genfiles.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/nbproject/private/private.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/nbproject/project.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/src/equacao/TelaEquacao.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Equacao/src/equacao/TelaEquacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/build/classes/exerciciopessoa/ExercicioPessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/build/classes/exerciciopessoa/Livro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/build/classes/exerciciopessoa/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/build/classes/exerciciopessoa/Publicacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/lib/nblibraries.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/src/exerciciopessoa/ExercicioPessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/src/exerciciopessoa/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/src/exerciciopessoa/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioPessoa/src/exerciciopessoa/Publicacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/build/built-jar.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/build/classes/Imagens/fatorial.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/build/classes/fatorial/TelaFatorial$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/build/classes/fatorial/TelaFatorial$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/build/classes/fatorial/TelaFatorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/dist/Fatorial.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/nbproject/genfiles.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/nbproject/private/private.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/nbproject/project.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/src/Imagens/fatorial.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/src/fatorial/TelaFatorial.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fatorial/src/fatorial/TelaFatorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse/build/classes/fatorialclasse/Fatorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse/build/classes/fatorialclasse/FatorialClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse/src/fatorialclasse/Fatorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse/src/fatorialclasse/FatorialClasse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/build/built-jar.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/build/classes/Imagens/fatorial.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/build/classes/fatorialclasse02/Fatorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/build/classes/fatorialclasse02/TelaFatorialClasse02Swing$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/build/classes/fatorialclasse02/TelaFatorialClasse02Swing$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/build/classes/fatorialclasse02/TelaFatorialClasse02Swing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/dist/FatorialClasse02.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/nbproject/genfiles.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/nbproject/private/private.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/nbproject/project.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/src/Imagens/fatorial.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/src/fatorialclasse02/Fatorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/src/fatorialclasse02/TelaFatorialClasse02Swing.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FatorialClasse02/src/fatorialclasse02/TelaFatorialClasse02Swing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../For/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../For/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../For/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../For/build/classes/pkgfor/For.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../For/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../For/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../For/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../For/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../For/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../For/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../For/src/pkgfor/For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funções/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funções/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funções/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funções/build/classes/funções/Funções.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funções/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funções/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funções/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funções/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funções/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funções/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funções/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funções/src/funções/Funções.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HoraAtual/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HoraAtual/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HoraAtual/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HoraAtual/build/classes/horaatual/HoraAtual.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HoraAtual/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HoraAtual/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HoraAtual/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HoraAtual/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HoraAtual/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HoraAtual/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HoraAtual/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HoraAtual/src/horaatual/HoraAtual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdadeCondicional/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdadeCondicional/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdadeCondicional/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdadeCondicional/build/classes/idadecondicional/IdadeCondicional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdadeCondicional/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdadeCondicional/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdadeCondicional/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdadeCondicional/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdadeCondicional/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdadeCondicional/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdadeCondicional/src/idadecondicional/IdadeCondicional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/Carro/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/Carro/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/Carvao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/Collatz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/DiasDaSemana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/FibonacciRecursivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/Impresora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/Impressora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/Macaes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/MacaesOperadorTernario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/MatrizOrdenadas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/MostraValores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/MultiplicaMatriz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/MultiplicandoVetores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/MultiplosDeTres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/OrdenacaoVetor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/ProjetoMatematica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/QuantidadeVogais.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/SaldoAtual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/SaldoOperadorTernario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/SomaInteriosRecusivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/bubble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/eletro/Bolsa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/eletro/Eletronico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/eletro/Ipod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/eletro/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/eletro/Smartphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAILA/eletro/Televisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplication22/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplication22/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplication22/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplication22/build/classes/javaapplication22/JavaApplication22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplication22/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplication22/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplication22/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplication22/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplication22/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplication22/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplication22/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplication22/src/javaapplication22/JavaApplication22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinguagemDoSistema/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinguagemDoSistema/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinguagemDoSistema/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinguagemDoSistema/build/classes/linguagemdosistema/LinguagemDoSistema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinguagemDoSistema/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinguagemDoSistema/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinguagemDoSistema/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinguagemDoSistema/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinguagemDoSistema/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinguagemDoSistema/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinguagemDoSistema/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinguagemDoSistema/src/linguagemdosistema/LinguagemDoSistema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaquinaSnack/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaquinaSnack/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaquinaSnack/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaquinaSnack/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaquinaSnack/MaquinaSnack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaquinaSnack/src/Snack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaquinaSnack/src/SnackMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaquinaSnack/src/Snacks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Média/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Média/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Média/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Média/build/classes/média/Média.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Média/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Média/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Média/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Média/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Média/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Média/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Média/src/média/Média.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/build/classes/olamundofx/FXMLDocument.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/build/classes/olamundofx/FXMLDocumentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/build/classes/olamundofx/OlaMundoFx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/dist/OlaMundoFx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/dist/OlaMundoFx.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/dist/OlaMundoFx.jnlp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/nbproject/configs/Run_as_WebStart.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/nbproject/configs/Run_in_Browser.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/nbproject/jfx-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/nbproject/private/configs/Run_as_WebStart.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/nbproject/private/configs/Run_in_Browser.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/src/olamundofx/FXMLDocument.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/src/olamundofx/FXMLDocumentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OlaMundoFx/src/olamundofx/OlaMundoFx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperadorTernario/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperadorTernario/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperadorTernario/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperadorTernario/build/classes/operadorternario/OperadorTernario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperadorTernario/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperadorTernario/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperadorTernario/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperadorTernario/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperadorTernario/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperadorTernario/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperadorTernario/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperadorTernario/src/operadorternario/OperadorTernario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/build/built-jar.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/build/classes/parimpar/TelaParImpar$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/build/classes/parimpar/TelaParImpar$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/build/classes/parimpar/TelaParImpar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/dist/ParImpar.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/nbproject/genfiles.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/nbproject/private/private.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/nbproject/project.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/src/parimpar/TelaParImpar.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParImpar/src/parimpar/TelaParImpar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/bin/dio/gof/TestandoPadroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/bin/dio/gof/facade/Facade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/bin/dio/gof/singletons/SingletonAprecado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/bin/dio/gof/singletons/SingletonPreguicoso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/bin/dio/gof/singletons/SingletonPreguicosoSeguro$Seguro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/bin/dio/gof/singletons/SingletonPreguicosoSeguro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/bin/dio/gof/strategy/ComportamentoAgressivo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/bin/dio/gof/strategy/ComportamentoDefensivo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/bin/dio/gof/strategy/ComportamentoNormal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/bin/dio/gof/strategy/Comportamentos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/bin/dio/gof/strategy/Roboto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/bin/subsistemas/cep/CepApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/bin/subsistemas/crm/CrmServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/src/dio/gof/TestandoPadroes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/src/dio/gof/facade/Facade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/src/dio/gof/singletons/SingletonAprecado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/src/dio/gof/singletons/SingletonPreguicoso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/src/dio/gof/singletons/SingletonPreguicosoSeguro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/src/dio/gof/strategy/ComportamentoAgressivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/src/dio/gof/strategy/ComportamentoDefensivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/src/dio/gof/strategy/ComportamentoNormal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/src/dio/gof/strategy/Comportamentos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/src/dio/gof/strategy/Roboto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/src/subsistemas/cep/CepApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projto Final BootCamp AWS-JAVA/src/subsistemas/crm/CrmServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/build/built-jar.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/build/classes/com/relogioswing/TelaRelogio$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/build/classes/com/relogioswing/TelaRelogio$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/build/classes/com/relogioswing/TelaRelogio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/build/classes/imagens/51dbb2fa23d3652ad5b844eb46730c54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/build/classes/imagens/Relogio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/dist/RelogioSwing.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/nbproject/genfiles.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/nbproject/private/private.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/nbproject/project.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/src/com/relogioswing/TelaRelogio.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/src/com/relogioswing/TelaRelogio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/src/imagens/51dbb2fa23d3652ad5b844eb46730c54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RelogioSwing/src/imagens/Relogio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repita/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repita/build/built-jar.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repita/build/classes/repita/Repita.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repita/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repita/dist/Repita.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repita/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repita/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repita/nbproject/genfiles.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repita/nbproject/private/private.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repita/nbproject/project.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repita/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repita/src/repita/Repita.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResoluçãoDaTela/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResoluçãoDaTela/src/resoluçãodatela/ResoluçãoDaTela.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.buildship.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.core.resources/.root/3.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/main/java/me/dio/Santander_dev_week_2023/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/main/java/me/dio/Santander_dev_week_2023/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/main/java/me/dio/Santander_dev_week_2023/controller/exception/GlobalException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/main/java/me/dio/Santander_dev_week_2023/domain/models/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/main/java/me/dio/Santander_dev_week_2023/domain/models/Bases.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/main/java/me/dio/Santander_dev_week_2023/domain/models/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/main/java/me/dio/Santander_dev_week_2023/domain/models/Feature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/main/java/me/dio/Santander_dev_week_2023/domain/models/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/main/java/me/dio/Santander_dev_week_2023/domain/models/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/main/java/me/dio/Santander_dev_week_2023/domain/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/main/java/me/dio/Santander_dev_week_2023/services/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/main/java/me/dio/Santander_dev_week_2023/services/impl/UserImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/main/resources/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/main/resources/application-prd.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Santander_dev_week_2023/src/test/java/me/dio/Santander_dev_week_2023/SantanderDevWeek2023ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistema de vendas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistema de vendas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistema de vendas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistema de vendas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistema de vendas/Sistema de vendas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistema de vendas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistema de vendas/src/Pedido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistema de vendas/src/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/build/built-jar.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/build/classes/com/somaswing/soma/TelaSoma$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/build/classes/com/somaswing/soma/TelaSoma$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/build/classes/com/somaswing/soma/TelaSoma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/dist/SomaSwing.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/nbproject/genfiles.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/nbproject/private/private.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/nbproject/project.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/src/com/somaswing/soma/TelaSoma.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SomaSwing/src/com/somaswing/soma/TelaSoma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/build/built-jar.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/build/classes/imagens/calculadoraicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/build/classes/supercalculadora/TelaSuperCalculadora$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/build/classes/supercalculadora/TelaSuperCalculadora$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/build/classes/supercalculadora/TelaSuperCalculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/dist/SuperCalculadora.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/nbproject/genfiles.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/nbproject/private/private.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/nbproject/project.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/src/imagens/calculadoraicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/src/supercalculadora/TelaSuperCalculadora.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperCalculadora/src/supercalculadora/TelaSuperCalculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/build/classes/pkgswitch/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/src/pkgswitch/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestandoTipos/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestandoTipos/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestandoTipos/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestandoTipos/build/classes/testandotipos/TestandoTipos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestandoTipos/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestandoTipos/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestandoTipos/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestandoTipos/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestandoTipos/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestandoTipos/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestandoTipos/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestandoTipos/src/testandotipos/TestandoTipos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposPrimitivos/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposPrimitivos/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposPrimitivos/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposPrimitivos/build/classes/tiposprimitivos/TiposPrimitivos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposPrimitivos/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposPrimitivos/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposPrimitivos/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposPrimitivos/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposPrimitivos/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposPrimitivos/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposPrimitivos/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposPrimitivos/src/tiposprimitivos/TiposPrimitivos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/build/classes/Imagens/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/build/classes/Imagens/Tipos-de-triangulos-.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/build/classes/triangulos/TelaTriangulo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/build/classes/triangulos/TelaTriangulo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/build/classes/triangulos/TelaTriangulo$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/build/classes/triangulos/TelaTriangulo$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/build/classes/triangulos/TelaTriangulo$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/build/classes/triangulos/TelaTriangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/dist/Triangulos.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/dist/lib/AbsoluteLayout.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/src/Imagens/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/src/Imagens/Tipos-de-triangulos-.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/src/triangulos/TelaTriangulo.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangulos/src/triangulos/TelaTriangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/bin/aplicativos/Aplicativos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/bin/aplicativos/TelaIFOME.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/bin/aplicativos/aplicativosExternos/Browser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/bin/aplicativos/aplicativosExternos/ReprodutorMusicas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/bin/aplicativos/aplicativosExternos/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/bin/aplicativos/aplicativosNativos/Relogio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/bin/aplicativos/aplicativosNativos/Telefone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/bin/aplicativos/aplicativosNativos/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/bin/aplicativos/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/src/aplicativos/Aplicativos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/src/aplicativos/TelaIFOME.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/src/aplicativos/aplicativosExternos/Browser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/src/aplicativos/aplicativosExternos/ReprodutorMusicas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/src/aplicativos/aplicativosExternos/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/src/aplicativos/aplicativosNativos/Relogio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/src/aplicativos/aplicativosNativos/Telefone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/src/aplicativos/aplicativosNativos/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/Ifome/src/aplicativos/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML IFOME - DIO/UML IFOME.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/build/classes/verificadoridade/Tela_VerficadorIdade$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/build/classes/verificadoridade/Tela_VerficadorIdade$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/build/classes/verificadoridade/Tela_VerficadorIdade$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/build/classes/verificadoridade/Tela_VerficadorIdade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/build/classes/verificadoridade/Tela_VerficadorIdade.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/src/verificadoridade/Tela_VerficadorIdade.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerificadorIdadeSwing/src/verificadoridade/Tela_VerficadorIdade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/build/built-jar.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/build/classes/vetorswing/TelaVetor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/build/classes/vetorswing/TelaVetor$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/build/classes/vetorswing/TelaVetor$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/build/classes/vetorswing/TelaVetor$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/build/classes/vetorswing/TelaVetor$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/build/classes/vetorswing/TelaVetor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/dist/VetorSwing.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/nbproject/genfiles.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/nbproject/private/private.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/nbproject/project.properties.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/src/vetorswing/TelaVetor.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VetorSwing/src/vetorswing/TelaVetor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/build/classes/vetores/Vetores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/src/vetores/Vetores.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="31SlNT8rGnZnVFIHV1JOXeJYngx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c02a8792-aebe-4869-b0d6-297e99781782" name="Changes" comment="" />
+      <created>1755525316334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755525316334</updated>
+    </task>
+    <servers />
+  </component>
+</project>
