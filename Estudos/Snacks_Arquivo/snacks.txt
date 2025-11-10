@@ -1,0 +1,4 @@
+1,Tubaina,13,50
+2,Biscoito,3,99
+3,Gostositos,23,70
+4,Coca-cola,25,00
