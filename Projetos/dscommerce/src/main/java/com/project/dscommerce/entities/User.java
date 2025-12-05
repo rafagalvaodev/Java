@@ -17,7 +17,7 @@ public class User {
     private String name;
 
     @Column(unique = true)
-    private String enail;
+    private String email;
 
     private String password;
 
@@ -31,10 +31,10 @@ public class User {
     public User() {
     }
 
-    public User(Long id, String name, String enail, String password, String phone, LocalDate birthDate) {
+    public User(Long id, String name, String email, String password, String phone, LocalDate birthDate) {
         this.id = id;
         this.name = name;
-        this.enail = enail;
+        this.email = email;
         this.password = password;
         this.phone = phone;
         this.birthDate = birthDate;
@@ -56,12 +56,12 @@ public class User {
         this.name = name;
     }
 
-    public String getEnail() {
-        return enail;
+    public String getEmail() {
+        return email;
     }
 
-    public void setEnail(String enail) {
-        this.enail = enail;
+    public void setEmail(String email) {
+        this.email = email;
     }
 
     public String getPassword() {
