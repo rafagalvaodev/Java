@@ -22,6 +22,7 @@ public class ClientDTO {
     @PastOrPresent(message = "A data de aniversario não pode ser uma data futura")
     private LocalDate birthDate;
 
+    @PositiveOrZero
     private Integer children;
 
     public ClientDTO() {
