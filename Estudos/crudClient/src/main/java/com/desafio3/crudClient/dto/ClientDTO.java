@@ -1,10 +1,7 @@
 package com.desafio3.crudClient.dto;
 
 import com.desafio3.crudClient.entity.Client;
-import jakarta.validation.constraints.NotBlank;
-import jakarta.validation.constraints.PastOrPresent;
-import jakarta.validation.constraints.Positive;
-import jakarta.validation.constraints.Size;
+import jakarta.validation.constraints.*;
 
 import java.time.LocalDate;
 
@@ -17,6 +14,7 @@ public class ClientDTO {
     @Size(min = 9, max = 15, message = "O CPF deve ter no minimo 9 caracters e no maximo 15")
     private String cpf;
 
+    @PositiveOrZero
     private Double income;
 
     @PastOrPresent(message = "A data de aniversario não pode ser uma data futura")
