@@ -1,0 +1,41 @@
+services:
+  postgres-db:
+    image: postgres:latest
+    ports:
+      - "5433:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_DB: ecommerce
+      POSTGRES_PASSWORD: 123
+  user-api:
+    image: ecommerce/user-api
+    ports:
+      - "8080:8080"
+    environment:
+      POSTGRES_URL: jdbc:postgresql://postgres:5432/ecommerce
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123
+    depends_on:
+      - postgres-db
+  product-api:
+    image: ecommerce/product-api
+    ports:
+      - "8081:8081"
+    environment:
+      POSTGRES_URL: jdbc:postgresql://postgres:5432/ecommerce
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123
+    depends_on:
+      - postgres-db
+  shopping-api:
+    image: ecommerce/shopping-api
+    ports:
+      - "8082:8082"
+    environment:
+      POSTGRES_URL: jdbc:postgresql://postgres-db:5432/ecommerce
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123
+      PRODUCT_API_URL: http://product-api:8081/api/product/
+      USER_API_URL: http://user-api:8080/api
+    depends_on:
+      - postgres-db
